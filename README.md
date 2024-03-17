@@ -7,3 +7,8 @@
 #teasm member details
 
 ![Screenshot 2024-03-17 092117](https://github.com/vanaja22/VASISHT_HACKATHON/assets/118378794/5da07491-48a1-418a-a5fa-e29895056258)
+#demo video
+
+
+https://github.com/vanaja22/VASISHT_HACKATHON/assets/118378794/cd978296-5d36-4dd1-a526-a195ede547c0
+
